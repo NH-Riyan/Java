@@ -1,0 +1,33 @@
+﻿Explore the Java String Library to solve the following problems
+
+
+1. Word Count
+   * Write a program in Java to accept a sentence and count the number of words in it using split().
+
+
+2. Capitalize Each Word
+   * Write a program in Java to accept a sentence and capitalize the first letter of each word. Example: "hello world" → "Hello World".
+
+
+3. Replace Spaces with a Character
+   * Write a program in Java to accept a sentence and replace all spaces with a specified character using replace().
+
+
+4. Sort Characters in a String
+   * Write a program in Java to sort the characters of a string in ascending order.
+
+
+5. Anagram Check
+   * Write a program in Java to check if two strings are anagrams (contain the same characters in a different order). Sort both strings and compare them.
+
+
+6. Longest Word in a Sentence
+   * Write a program in Java to find and print the longest word in a sentence. Split the sentence into words and compare their lengths.
+
+
+7. Check for Rotation
+   * Write a program in Java to check if one string is a rotation of another. For example, "abcde" and "cdeab" are rotations.
+
+
+8. String Compression
+   * Write a program in Java to compresses a string by counting consecutive repeated characters. Example: "aaabbcc" → "a3b2c2".
